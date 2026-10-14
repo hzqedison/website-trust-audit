@@ -1,0 +1,4 @@
+interface:
+  display_name: "官网信任评审"
+  short_description: "整理并复核软件官网的信任、下载、安装及付费证据与多语言覆盖"
+  default_prompt: "使用 $website-trust-audit 按指定范围整理官网信任评审证据。"
